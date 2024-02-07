@@ -98,7 +98,7 @@ body {
     left:20px;
 }
 #hero{
-    background-image: url(img/hero4\ \(2\).png);
+    background-image: url(hero4\ \(2\).png);
     /* background-color: transparent; */
     height: 90vh;
     width: 100%;
@@ -120,7 +120,7 @@ body {
 
 }
 #hero button{
-    background-image: url(img/button.png);
+    background-image: url(button.png);
     background-color: transparent;
     color: darkblue;
     border:0;
@@ -250,7 +250,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(img/Banner/Screenshot\ from\ 2024-01-28\ 00-42-57.png);
+    background-image: url(Screenshot\ from\ 2024-01-28\ 00-42-57.png);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -296,7 +296,7 @@ button.normal{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(img/Banner/Screenshot\ from\ 2024-01-28\ 00-42-57.png);
+    background-image: url(Screenshot\ from\ 2024-01-28\ 00-42-57.png);
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -338,7 +338,7 @@ button.white{
     border:1px solid darkblue;
 }
 #sm-banner .banner-box2{
-    background-image: url(img/Banner/Screenshot\ from\ 2024-01-28\ 08-05-35.png);
+    background-image: url(Screenshot\ from\ 2024-01-28\ 08-05-35.png);
     
 }
 #banner3 .banner-box{
@@ -346,7 +346,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(img/Banner/imgm3.webp);
+    background-image: url(imgm3.webp);
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -366,10 +366,10 @@ button.white{
     padding: 0,80px;
 }
 #banner3 .box2{
-    background-image: url(img/Banner/imgm2.webp);
+    background-image: url(imgm2.webp);
 }
 #banner3 .box3{
-    background-image: url(img/Banner/imgm1.webp);
+    background-image: url(imgm1.webp);
 }
 #banner3 .box1 h3{
     color: white;
